@@ -11,6 +11,8 @@ namespace lab_2
         {
             Console.WriteLine("hello");
             Console.WriteLine("hello 2");
+            Console.WriteLine("hello 2");
+            Console.WriteLine("hello 2");
         }
     }
 }
