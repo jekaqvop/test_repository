@@ -1,0 +1,7 @@
+D:\Учёба 2 курс 1 сем\ООП\lab_2\bin\Debug\lab_2.exe.config
+D:\Учёба 2 курс 1 сем\ООП\lab_2\bin\Debug\lab_2.exe
+D:\Учёба 2 курс 1 сем\ООП\lab_2\bin\Debug\lab_2.pdb
+D:\Учёба 2 курс 1 сем\ООП\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+D:\Учёба 2 курс 1 сем\ООП\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+D:\Учёба 2 курс 1 сем\ООП\lab_2\obj\Debug\lab_2.exe
+D:\Учёба 2 курс 1 сем\ООП\lab_2\obj\Debug\lab_2.pdb
